@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Moda infantil e juvenil do RN ao 18
       color: text-dark
       styles:
         self:
