@@ -61,6 +61,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    subtitle: Escolha o grupo da idade do seu filho... e aproveite promoções exclusivas!
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
