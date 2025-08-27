@@ -63,14 +63,8 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: >-
-        Escolha o grupo da idade do seu filho... e aproveite promoções
-        exclusivas!
+      text: This Is A Big Headline
       color: text-dark
-      styles:
-        self:
-          fontWeight: 400
-          textAlign: center
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
