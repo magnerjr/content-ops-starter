@@ -13,7 +13,7 @@ sections:
     subtitle: 'Qualidade, conforto e envio para todo o Brasil'
     items: []
     actions:
-      - label: Get started
+      - label: Compre agora!
         altText: ''
         url: /
         showIcon: false
