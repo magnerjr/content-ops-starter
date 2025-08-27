@@ -70,6 +70,7 @@ sections:
       styles:
         self:
           fontWeight: 400
+          textAlign: center
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
