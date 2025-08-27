@@ -67,6 +67,9 @@ sections:
         Escolha o grupo da idade do seu filho... e aproveite promoções
         exclusivas!
       color: text-dark
+      styles:
+        self:
+          fontWeight: 400
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
