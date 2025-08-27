@@ -1,5 +1,5 @@
 ---
-title: Tamanho 0 a 3 anos
+title: 0 a 3 anos
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
