@@ -69,7 +69,7 @@ sections:
       color: text-dark
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 500
           textAlign: center
   - type: GenericSection
     title:
