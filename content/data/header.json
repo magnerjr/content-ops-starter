@@ -15,7 +15,8 @@
                     "pr-0",
                     "pb-0",
                     "pl-0"
-                ]
+                ],
+                "borderRadius": "small"
             }
         },
         "type": "ImageBlock"
